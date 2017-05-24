@@ -26,9 +26,7 @@ function createTweet(input) {
         $('.quote').text(quoteText);
         $('.author').text("Author: " + quoteAuthor);
         $('.tweet').attr('href', tweet);
-        $('.tweet').attr('href', tweet);
     }
-    $('.tweet').attr('href', tweet);
 }
 
 $(document).ready(function() {
