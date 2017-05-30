@@ -1,0 +1,1 @@
+ https://lstrozik.github.io/Quote-generator/
